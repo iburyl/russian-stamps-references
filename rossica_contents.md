@@ -1,5 +1,41 @@
 # Rossica Journal Contents
 
+## Issue 187
+
+| Issue | Pages | Title | Author | Notes |
+|---|---|---|---|---|
+| 187 | 2 | President’s Report | Raymond J. Pietruszka |  |
+| 187 | 3 | From the Editor | Steve Volis |  |
+| 187 | 4 | Rossica Library News | Dr. Greg Mirsky |  |
+| 187 | 4 | New Members |  |  |
+| 187 | 5 | Russian-Language Synopsis | Steve Volis |  |
+| 187 | 6 | From the History of Russian America: The Correspondence of Priests from Vologda Province to the Aleutian Islands | Semyon Brayman and Vladimir Berdichevsky |  |
+| 187 | 15 | A Septinsular Republic Update | David A. Jay |  |
+| 187 | 20 | Postal Communication Between Russia and Persia | Howard L. Weinert |  |
+| 187 | 22 | Wenden Stamps Potpourri (Errors, Reprints, Official Imitations, and Counterfeits) | John R. Iacovino |  |
+| 187 | 28 | Uyar (Klyukvennaya) Railway Post Station in Siberia | Anatoliy Mikheev |  |
+| 187 | 40 | A Mysterious Cover from Ceylon | Vladimir Berdichevsky |  |
+| 187 | 45 | The Russian Empire Postal Department’s Efforts to Prevent the Reuse of Postage Stamps | Lev Ratner |  |
+| 187 | 53 | Greetings from the Donbas | René Hillesum |  |
+| 187 | 56 | Errors and Peculiarities in Dates on Datestamps of the Russian Empire, Part 1 | Pavel Shulgin |  |
+| 187 | 64 | On the 100th Anniversary of K.V. Bazilevich’s Essay “Zemstvo Post in Russia (1865–1917)” | Dr. Dmitriy Nikitin |  |
+| 187 | 67 | The Zemstvo Post of Zolotonosha Uyezd – The Missing Link 1868–1880 | Dr. Dmitriy Nikitin |  |
+| 187 | 74 | Zemstvo Post of Slobodskoy Uyezd, Vyatka Province – Part 2. Postmarks and Postal Items of the Orlov Zemstvo Post | Sergey Ivanov and Andrey Garbaruk |  |
+| 187 | 81 | Dukhovshchina: Simulacrum, a Falsified Fantasy Issue | Andrey Garbaruk |  |
+| 187 | 87 | Expanding the Map: A Rare Find Reveals Mail Disinfection in Pre-Revolutionary Saint Petersburg | Angela Averkieva |  |
+| 187 | 91 | Disproving the Existence of a Fourth 1914 Mute Riga Machine Cancellation | Dzintars Grinfelds |  |
+| 187 | 95 | Previously Unknown Varieties on the 1914/15 Postal Charity Issue, Part 2 | Dr. Stav Jacobi and Anatoly Farber |  |
+| 187 | 99 | RSFSR No. 1 and No. 2 (Chainbreakers): Unique Imperforate Pairs with Margins and Previously Unknown Varieties | Dr. Stav Jacobi and Anatoly Farber |  |
+| 187 | 102 | The Odessa Concessionary Postcard of the M. Shpentzer Publishing House | Tagir Mukhutdinov |  |
+| 187 | 104 | Egyptian “RUSSIAN OFFICE” Revenue Stamps | Dr. Greg Mirsky |  |
+| 187 | 110 | ROSSIKANA: Arkhangelsky’s III Lottery of 1931 | David M. Skipton |  |
+| 187 | 114 | Postage-Due Handstamps with Fixed Sums in Imperial Russia and Soviet Postal History | Mikhail Dymshits and Steve Volis |  |
+| 187 | 126 | Echoes of the Desert: The 1936 Gorky-Karakum-Pamir-Moscow Auto Rally and its Philatelic Legacy | Steve Volis |  |
+| 187 | 132 | Obituary: John Iacovino, 1941-2026 | Nik Sorokin |  |
+| 187 | 133 | Obituary: Robert Taylor, 1929-2026 | Ivo Steijn |  |
+| 187 | 134 | Military Censorship Handstamps with Town Names in the Ukrainian SSR in 1942 | Konstantin Filobok |  |
+| 187 | 137 | Rossica Palmares at Boston 2026 |  |  |
+
 ## Issue 186
 
 | Issue | Pages | Title | Author | Notes |
@@ -4284,4 +4320,3 @@
 | 1 |  | Соревнованіе |  |  |
 | 1 |  | Библіографія |  |  |
 | 1 |  | Объявленія |  |  |
-
