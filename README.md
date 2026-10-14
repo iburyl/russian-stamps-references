@@ -22,6 +22,13 @@ Contents index for the philatelic and collecting almanac **«Советский 
 
 Выпуски: [1–28](soviet_collector.md)
 
+### Филателия СССР
+
+Verified contents index for **«Филателия СССР»**, transcribed from the
+printed contents pages and arranged in reverse chronological order.
+
+Годы: [1966–1969](filateliya_sssr_contents.md)
+
 ## Scope and accuracy
 
 The repository is primarily a **bibliographic and research index**, not a catalogue of stamps.
