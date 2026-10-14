@@ -16,6 +16,12 @@ Issues: [1–186](rossica_contents.md)
 
 The index covers both Russian- and English-language sections of the journal and is intended to make articles searchable across the complete run.
 
+### Марки
+
+Contents index for the pre-revolutionary Russian philatelic journal **«Марки»**, including separate references to Russian stamp issues and zemstvo districts mentioned in each issue.
+
+Годы: [1896–1901](marki_contents.md)
+
 ### Советский коллекционер
 
 Contents index for the philatelic and collecting almanac **«Советский коллекционер»**.
