@@ -2,6 +2,8 @@
 
 Source: *The British Journal of Russian Philately, Issues 1–107: Contents* (supplied PDF index). Article titles are retained in English as listed in the source. A blank author field indicates that no author is credited in the index. Administrative entries (tables of contents, society officers, announcements, and generic untitled sections) are generally omitted.
 
+Archive note: the local scan collection extends beyond the supplied index and includes issues 108 (2018), 109 (2019), 111 (2021), 112 (2022), and 113 (2023). Issue 110 is not present in the collection. Issue 113 identifies itself as the final issue of the journal.
+
 ## Issue 107 (2017)
 
 | Issue | Page | Title | Author | Notes |
@@ -9,7 +11,7 @@ Source: *The British Journal of Russian Philately, Issues 1–107: Contents* (su
 | 107 | 1 | 1899 Labels | Noel Warr | |
 | 107 | 4 | Forgeries of the Lenin Mourning Issue of 1924 | John R Iacovino | |
 | 107 | 7 | Regional Postal History of Ukraine: Podolia and Volhynia — Part I | Thomas Berger and Alexander Epstein | |
-| 107 | 25 | The “EZGB” Watermark on Russian Postage Stamps | Alois Vávra | |
+| 107 | 25 | The “EZGB” Watermark on Russian Postage Stamps | Alois Vávra | Explains how cutting, rotation, and inversion of sheets produce eight possible orientations of the EZGB watermark; includes an identification template and a table of recorded orientations. |
 | 107 | 32 | Shake, Rattle and Roll: A Carriage Journey Across Siberia | Howard Weinert | |
 | 107 | 34 | What Happened at the Batum Post Office during the British Occupation | Hans Grigoleit and Edward Klempka | |
 | 107 | 40 | The Clandestine Mail Surveillance Office at Minsk 1921-1950 | David M Skipton and Steve Volis | |
@@ -46,7 +48,7 @@ Source: *The British Journal of Russian Philately, Issues 1–107: Contents* (su
 | 105 | 18 | Regional Postal History of Ukraine 1917-21: Kherson Guberniya - Part I | Thomas Berger and Alexander Epstein | |
 | 105 | 50 | Prisoner of War Mail from Japanese Controlled P.O.W. Camps 1919-1920 | Edward Klempka | |
 | 105 | 52 | Russian Empire Used Abroad: Russian Post in China | Wilhelm Grundmann | |
-| 105 | 56 | 1917-1919 Printing, Distribution and Use of Imperial Arms Imperforate Stamps | Trevor Pateman | |
+| 105 | 56 | 1917-1919 Printing, Distribution and Use of Imperial Arms Imperforate Stamps | Trevor Pateman | Empirical study with an earliest-use table; argues that catalogue “issue dates” are misleading because values were distributed piecemeal and unevenly. |
 | 105 | 59 | The Luboml Issue | Ron Tufft | |
 | 105 | 63 | Japanese Occupation of Sakhalin Island | Edward Klempka | |
 | 105 | 66 | Moscow: Temporary Offices | Noel Warr | |
@@ -228,7 +230,7 @@ Source: *The British Journal of Russian Philately, Issues 1–107: Contents* (su
 | 92/93 | 61 | Voyage to oblivion | Raymond Casey | |
 | 92/93 | 89 | Advertising philately on postcards | Meer Kossoy | |
 | 92/93 | 103 | Shadrinsk Zemstvo stamp investigation - progress report | George G. Werbitzky | |
-| 92/93 | 104 | Postal rates for banderols abroad in Imperial and Soviet Russia (1866-1923) | Alexander Epstein | |
+| 92/93 | 104 | Postal rates for banderols abroad in Imperial and Soviet Russia (1866-1923) | Alexander Epstein | Tabulated supplement to the foreign-rate study in issue 91, p. 64; covers printed matter, business papers, samples, and registration. |
 | 92/93 | 105 | The Captain’s Log. 3 | Raymond Casey | |
 | 92/93 | 123 | A Siberian branch-line - Chusovaya-Solevarni | Leonard Tann | |
 | 92/93 | 135 | Obituaries - ELJ LeJeune, JM Michalson, G Murdoch | Philip Robinson & Terry Page | |
@@ -246,7 +248,7 @@ Source: *The British Journal of Russian Philately, Issues 1–107: Contents* (su
 | 91 | 42 | The undelivered mail report of an Odessa postman | Meer Kossoy | |
 | 91 | 45 | The China Shop - 2 | Raymond Casey | |
 | 91 | 63 | A lucky find | Natalie Krasheninnikov | |
-| 91 | 64 | Foreign postal rates in Russia for letters and postcards (1864-1923) | Alexander Epstein | |
+| 91 | 64 | Foreign postal rates in Russia for letters and postcards (1864-1923) | Alexander Epstein | Tabulated synthesis based on Lobachevsky, Karlinsky, and the author’s research; distinguishes official effective dates from circular dates. |
 
 ## Issue 90 (2003)
 
@@ -269,7 +271,7 @@ Source: *The British Journal of Russian Philately, Issues 1–107: Contents* (su
 |---|---:|---|---|---|
 | 89 | 4 | Talienwan/Dalny - a Manchurian mystery | Raymond Casey | |
 | 89 | 24 | The “Yelets Soviet stamp” - Zemstvo successor or fiscal? | Terry Page & George G. Werbitzky | |
-| 89 | 29 | The Cash on Delivery mail of Russia | Lev Ratner | |
+| 89 | 29 | The Cash on Delivery mail of Russia | Lev Ratner | Archival history of the 1887 rules and later changes; distinguishes the circular of 16 November 1887 from introduction of the service on 1 January 1888. |
 | 89 | 39 | A letter to Mount Athos | Natalie Krasheninnikov | |
 | 89 | 41 | “To pay” marks of the Travelling Post Offices | Meer Kossoy | |
 | 89 | 48 | Russian sedentary Field Post/telegraph cancellations of Kwangchentze Raymond Casey (Changchun), Manchuria |  | |
@@ -311,7 +313,7 @@ Source: *The British Journal of Russian Philately, Issues 1–107: Contents* (su
 | 87 | 32 | Receipts - addendum | Noel Warr | |
 | 87 | 38 | Is this cover genuine in all respects? | Trevor Pateman | |
 | 87 | 43 | Used Zemstvo postal stationery: Ustsysolsk, Rzhev and Kadnikov | Terry Page | |
-| 87 | 45 | Domestic postal rates in Russia for letters and postcards (1844 - 1923) | Alexander Epstein | |
+| 87 | 45 | Domestic postal rates in Russia for letters and postcards (1844 - 1923) | Alexander Epstein | Tabulated synthesis; Imperial-era data are distilled from Kaminski’s 1984–1989 tariff study, with later Soviet rates critically revised. |
 | 87 | 48 | The riddle of February 1922 domestic postal rates | Alexander Epstein | |
 | 87 | 53 | Five nice items | Leonard Tann | |
 | 87 | 55 | Used Abroad Chronicle (XX) | Lenard Tiller | |
@@ -421,7 +423,7 @@ Source: *The British Journal of Russian Philately, Issues 1–107: Contents* (su
 |---|---:|---|---|---|
 | 81 | 4 | The earliest St. Petersburg handstamp of 1765 | P.T. Ashford | |
 | 81 | 7 | The “Moscow Taksa” : Russian postal rates of 1783 | W.J. de Jongh | |
-| 81 | 18 | Domestic Russian postal rates to 1875 | N. Krasheninnikoff | |
+| 81 | 18 | Domestic Russian postal rates to 1875 | N. Krasheninnikoff | Narrative survey of the shift from route-specific charges to the 1844 weight-only tariff; based on Kaminski and official postal-journal studies. |
 | 81 | 23 | Strakhovoe: insured or registered? | A. Speeckaert | |
 | 81 | 40 | Russian Field Post in the Far East | A. Epstein | |
 | 81 | 58 | St.Petersburg Magistrates Courts: the small format issues | J.G. Moyes | |
@@ -580,7 +582,7 @@ Source: *The British Journal of Russian Philately, Issues 1–107: Contents* (su
 | 71 | 48 | Field post offices of the Russian army in WW1 1914-1918 | Alexander Epstein | |
 | 71 | 68 | Addenda and errata |  | |
 | 71 | 68 | The opening of the Russian post office in China | Raymond Casey | |
-| 71 | 69 | 1902/05 issue on vertical paper | E.G. Peel | |
+| 71 | 69 | 1902/05 issue on vertical paper | E.G. Peel | Follow-up to issue 69 based on a larger group of dated material: the 10k and 20k occur in 1902, the 4k in 1903, and the 50k and 1r in 1904. |
 | 71 | 70 | 1920 Blagoveshchensk issue | Ivo Steyn | |
 
 ## Issue 70 (1991)
@@ -605,7 +607,7 @@ Source: *The British Journal of Russian Philately, Issues 1–107: Contents* (su
 | 69 | 17 | Russian post office in Samos | David Morrison | |
 | 69 | 18 | 'Freedom Loan' propaganda cards: some additional information | J.G. Moyes | |
 | 69 | 22 | The 1920 Blagoveshchensk issue | Ivo Steyn | |
-| 69 | 26 | Thunderbolts: 10k and 20k vertically laid paper used before 1904 | Vittorio Mallegni | |
+| 69 | 26 | Thunderbolts: 10k and 20k vertically laid paper used before 1904 | Vittorio Mallegni | Corrects the traditional 1904 dating with three postal items used in 1903; followed up with earlier dates and a larger sample in issue 71, p. 69. |
 | 69 | 30 | Stamps and postal history | Ivo Steyn | |
 | 69 | 35 | Modern postal history 3: Money Order? What Money Order? | Ivo Steyn | |
 | 69 | 36 | Breaking the ice | P.E. Robinson | |
@@ -664,7 +666,7 @@ Source: *The British Journal of Russian Philately, Issues 1–107: Contents* (su
 |---|---:|---|---|---|
 | 65 | 4 | The Volunteer Fleet: emergency cancellers | Raymond Casey | |
 | 65 | 8 | Riga: the riddle of the Krag Machine postmarks | V. Marcilger | |
-| 65 | 21 | Imperial Russia’s currency tokens 1915-1917 | L.L. Tann | |
+| 65 | 21 | Imperial Russia’s currency tokens 1915-1917 | L.L. Tann | Broad study of issue dates, postal validity, printings, perforation varieties, and the lower-value issue; revises some of the author’s earlier conclusions. |
 | 65 | 35 | British and Indian Field Post Offices in Transcaucasia and Transcaspia 1918- 1920 | P.T. Ashford | |
 | 65 | 52 | Obituary - G. D. Buckley | R. Casey | |
 
@@ -787,8 +789,8 @@ Source: *The British Journal of Russian Philately, Issues 1–107: Contents* (su
 | Issue | Page | Title | Author | Notes |
 |---|---:|---|---|---|
 | 60 | 3 | Obituary: Dr A.H. Wortman, F.R.P.S.,L. | P.T.Ashford | |
-| 60 | 4 | The first 7k. stamp of Russia | A.H. Wortman | |
-| 60 | 7 | Russia - thunderbolts | A.H. Wortman | |
+| 60 | 4 | The first 7k. stamp of Russia | A.H. Wortman | Reprint of Wortman’s *Stamp Review* article of May 1939; substantially duplicates the item in issue 11, p. 317. |
+| 60 | 7 | Russia - thunderbolts | A.H. Wortman | Broad chronology of the post-and-telegraph emblem, perforations, paper, and the 1905 background change. Dating of the vertical-paper 4k, 10k, and 20k is corrected in issues 69 and 71. |
 | 60 | 18 | Moscow railways | Edward Kossoy | |
 | 60 | 27 | Dots cancellations: more information | Edward Kossoy | |
 | 60 | 27 | Estonian forerunners: more information | Edward Kossoy | |
@@ -931,7 +933,7 @@ Source: *The British Journal of Russian Philately, Issues 1–107: Contents* (su
 | 56 | 35 | Stamp booklets | S. Kelly | |
 | 56 | 35 | Machine cancellations | A.H. Wortman | |
 | 56 | 37 | Reply cards used in Russia | A.H. Wortman | |
-| 56 | 37 | The 1916 provisional 10 & 20 kop surcharges on Arms types & Romanovs | L.L. Tann | |
+| 56 | 37 | The 1916 provisional 10 & 20 kop surcharges on Arms types & Romanovs | L.L. Tann | Short response to H. Weinert’s article in issue 55, clarifying the limits of the contemporary wording and confirming a 20/14k surcharge-omission variety. |
 | 56 | 37 | 1917: Portuguese Ambassador’s censored mail from Petrograd | D. Mushlin | |
 | 56 | 38 | Italian forces in the Far East | L. Buzzetti | |
 | 56 | 38 | The Far East Republic DVR overprint | G.G. Werbicky | |
@@ -960,7 +962,7 @@ Source: *The British Journal of Russian Philately, Issues 1–107: Contents* (su
 | 55 | 17 | Reply cards used in Russia | W. Frauenlob | |
 | 55 | 18 | Small locality cancellations | E.G. Peel | |
 | 55 | 18 | Money transfer and parcel receipt card | R.L. Joseph and R.J. Ceresa | |
-| 55 | 19 | The 1916 provisional 10 and 20 kop surcharges on Arms types and Romanovs | H. Weinert | |
+| 55 | 19 | The 1916 provisional 10 and 20 kop surcharges on Arms types and Romanovs | H. Weinert | Uses contemporary *Filateliya* notices to reconstruct release order and quantities; continues the discussion in issues 51–54 and prompts a response in issue 56. |
 | 55 | 19 | 1918 Dorpat occupation surcharge | J. Tovey | |
 | 55 | 20 | T.P.O.s during 1918/23 period | R.L. Joseph | |
 | 55 | 21 | Batum: a new Postmaster handstamp | P.T. Ashford | |
@@ -1058,7 +1060,7 @@ Source: *The British Journal of Russian Philately, Issues 1–107: Contents* (su
 | 52 | 6 | Registered mail | I.L.G. Baillie | |
 | 52 | 11 | Postal stationery: 10 kop: double print | W. Frauenlob | |
 | 52 | 11 | St. Petersburg: Cyrillic ‘MSK’ at foot | A.H. Wortman | |
-| 52 | 11 | The varnish lines - a new look | G. V. Shalimoff & D. W. Levandowsky | |
+| 52 | 11 | The varnish lines - a new look | G. V. Shalimoff & D. W. Levandowsky | Ultraviolet-photography study arguing that the network is varnish applied after printing, not “chalk”; warns that apparent omissions may be very light applications. |
 | 52 | 15 | T.P.O. Route 115/116 - Prigara’s unidentified route | I.L.G. Baillie & R.L. Joseph | |
 | 52 | 16 | 10 & 20 kop surcharge on 7 & 14 Kop arms type and Romanovs | E.G. Peel | |
 | 52 | 17 | The Postal Savings Bank and Control stamps (Part I continued) | R.J. Ceresa | |
@@ -1151,7 +1153,7 @@ Source: *The British Journal of Russian Philately, Issues 1–107: Contents* (su
 | 47 | 3 | The handstruck markings of Warsaw | M.A. Bojanowicz and A. Droar | |
 | 47 | 10 | North Ingermanland | N.D. Fritzberg | |
 | 47 | 20 | Eastern Galicia, 1919 | R.P. Knighton | |
-| 47 | 23 | The preparation and introduction of the first Russian stamp | B. Kaminski | |
+| 47 | 23 | The preparation and introduction of the first Russian stamp | B. Kaminski | Translation by B. Pritt of an archival study first published in *Filateliya SSSR*, nos. 6–7 (1970); details Charukovskii, Reichel, Kepler, essays, production, and the delayed 1858 introduction. |
 | 47 | 32 | Petrograd censorship - some additional notes | A.H. Wortman | |
 | 47 | 34 | A cover from Tsarskoe Selo | Derek Palmer | |
 | 47 | 35 | Bjeloborodov’s Russian Ukraine 1918 | C.W. Roberts | |
@@ -1399,7 +1401,7 @@ Source: *The British Journal of Russian Philately, Issues 1–107: Contents* (su
 |---|---:|---|---|---|
 | 34 | 3 | White Russia-: notes on the genuine and forgeries | H.G. Leslie Fletcher and William P. Fletcher | |
 | 34 | 4 | Postal history items from the Russian front in Persia, 1916 | Kurt Adler | |
-| 34 | 6 | Postal rates of the Russian Empire 1901-1904 | R.L. Joseph | |
+| 34 | 6 | Postal rates of the Russian Empire 1901-1904 | R.L. Joseph | Translation from an undated German handbook, dated by the translator to about 1902 from its stamp list and maps; detailed service and tariff summary. |
 | 34 | 9 | “Used Abroad” Chronicle-VII | S.D. Tchilinghirian | |
 | 34 | 13 | Scarce censor markings of the First World War-(III) | A.H. Wortman | |
 | 34 | 14 | Outstanding covers | O. Winterstein and V. Stoyanoff | |
@@ -1454,7 +1456,7 @@ Source: *The British Journal of Russian Philately, Issues 1–107: Contents* (su
 | 32 | 24 | Obituaries - H.C. Raindle & J.O. Critchlow | J. Barry | |
 | 32 | 25 | The American samovar. | G.B. Salisbury | |
 | 32 | 26 | A collector’s calendar. | P.T. Ashford | |
-| 32 | 33 | Revised summary of the printings and plates of the Russian Arms issues. 1908- 22 (Part Four). | F. Julius Fohs | |
+| 32 | 33 | Revised summary of the printings and plates of the Russian Arms issues. 1908- 22 (Part Four). | F. Julius Fohs | Part 4 of 4; concludes the technical survey begun in issue 29, p. 58a. |
 | 32 | 40 | The Zemstvo Gazetteer (continued). | Fred W. Speers | |
 
 ## Issue 31 (1962)
@@ -1477,7 +1479,7 @@ Source: *The British Journal of Russian Philately, Issues 1–107: Contents* (su
 | 31 | 24 | The American samovar | Gregory B. Salisbury | |
 | 31 | 25 | A collector’s calendar | P.T. Ashford | |
 | 31 | 26 | Review: “Trident issues of the Ukraine-Part I (revised edition)” | S.D. Tchilinghirian | |
-| 31 | 27 | Revised summary of the printings and plates of the Russian arms issues 1908-22, part III | F. Julius Fohs | |
+| 31 | 27 | Revised summary of the printings and plates of the Russian arms issues 1908-22, part III | F. Julius Fohs | Part 3 of 4; continued in issue 32, p. 33. |
 | 31 | 33 | The Zemstvo Gazetteer (continued) | Fred W. Speers | |
 
 ## Issue 30 (1962)
@@ -1494,7 +1496,7 @@ Source: *The British Journal of Russian Philately, Issues 1–107: Contents* (su
 | 30 | 19 | A very odd cover | Donald McDonald | |
 | 30 | 21 | The story of two letters | A.H. Wortman | |
 | 30 | 22 | U.S.S.R. airmail labels and cachets | James Negus | |
-| 30 | 24 | Revised summary of the printings and plates of the Russian arms issues 1908- 1922 Part two | F. Julius Fohs | |
+| 30 | 24 | Revised summary of the printings and plates of the Russian arms issues 1908- 1922 Part two | F. Julius Fohs | Part 2 of 4; continues issue 29, p. 58a, and is continued in issue 31, p. 27. |
 | 30 | 31 | The Zemstvo Gazetteer (continued) | Fred W. Speers | |
 | 30 | 43 | The Bulletin section: |  | |
 | 30 | 44 | BSRP jubilee display | P.T. Ashford | |
@@ -1522,7 +1524,7 @@ Source: *The British Journal of Russian Philately, Issues 1–107: Contents* (su
 | 29 | 52 | Soviet varieties of issues 1957-58-59 | John Lloyd | |
 | 29 | 56 | 1956 auto rally | J.P. Visser | |
 | 29 | 57 | Philately in Istanbul | Gautier Vidal | |
-| 29 | 58a | Revised summary of the printings and plates of the Russian arms issues 1908- 1922: Part one - characteristics | F.J. Fohs | |
+| 29 | 58a | Revised summary of the printings and plates of the Russian arms issues 1908- 1922: Part one - characteristics | F.J. Fohs | Part 1 of 4; methodological overview of paper, watermark, varnish network, colours, plate settings, perforation, and embossing. Continued in issues 30–32. |
 | 29 | 75 | Mute cancellations of World War I (contd.) | G.B. Salisbury and Kurt Adler | |
 | 29 | 83 | The dots postmarks of Imperial Russia (contd.) | W.E.C. Kethro | |
 | 29 | 88 | The Zemstvo Gazetteer (continued) | Fred W. Speers | |
@@ -1805,7 +1807,7 @@ Source: *The British Journal of Russian Philately, Issues 1–107: Contents* (su
 |---|---:|---|---|---|
 | 11 | 315 | Outstanding cover No. 11 | W.E. Hughes | |
 | 11 | 316 | The thirty-ninth gathering | J. Barry | |
-| 11 | 317 | The first 7 kopeck stamp | A.H. Wortman | |
+| 11 | 317 | The first 7 kopeck stamp | A.H. Wortman | Earlier BJRP printing of Wortman’s *Stamp Review* article of May 1939; reprinted in issue 60, p. 4. |
 | 11 | 325 | American samovar | G.B. Salisbury | |
 | 11 | 329 | Obituary - Theodore Lavroff | J. Barry | |
 | 11 | 330 | Member’s display - Finland | R.P. Knighton | |
