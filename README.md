@@ -22,6 +22,12 @@ Contents index for the pre-revolutionary Russian philatelic journal **«Марк
 
 Годы: [1896–1901](marki_contents.md)
 
+### Филателия (Санкт-Петербург — Петроград)
+
+Contents index for the pre-revolutionary illustrated stamp journal **«Филателия»**, including the trial issue of 1913, the surviving issues for 1914–1915, and the publisher's separate price list.
+
+Годы: [1913–1915](filateliya_spb_contents.md)
+
 ### Советский коллекционер
 
 Contents index for the philatelic and collecting almanac **«Советский коллекционер»**.
