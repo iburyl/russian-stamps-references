@@ -4,8 +4,6 @@ Contents and reference index for journals and other publications related to Russ
 
 The repository is intended as a research aid for locating articles on Russian postal history, postage stamps, postal stationery, revenues, printing methods, varieties, and related subjects.
 
-The main focus is on publications that are otherwise difficult to search systematically. Journal contents are transcribed into structured Markdown tables with issue numbers, page ranges, article titles, authors, and additional notes where available.
-
 ## Journal contents
 
 ### Rossica Journal
@@ -42,14 +40,13 @@ Contents index for the philatelic and collecting almanac **«Советский 
 
 ### Филателия СССР
 
-Verified contents index for **«Филателия СССР»**, transcribed from the
-printed contents pages and arranged in reverse chronological order.
+Article-level contents index for **«Филателия СССР»**.
 
-Годы: [1966–1969](filateliya_sssr_contents.md)
+Годы: [1966–1991](filateliya_sssr_contents.md)
 
 ## Scope and accuracy
 
-The repository is primarily a **bibliographic and research index**, not a catalogue of stamps.
+The repository is primarily a **bibliographic and research index**.
 
 Article titles, authors, pagination, and other bibliographic information are transcribed from the original publications where possible.
 
