@@ -44,6 +44,14 @@ Article-level contents index for **«Филателия СССР»**.
 
 Годы: [1966–1991](filateliya_sssr_contents.md)
 
+## Seminar proceedings
+
+### Семинары Центрального музея связи имени А. С. Попова
+
+Article-level contents index for the available proceedings of the annual scientific and practical seminars on postal history, philately, and deltiology.
+
+Выпуски: [IX, XII, XIV–XVI](museum_seminars_contents.md)
+
 ## Scope and accuracy
 
 The repository is primarily a **bibliographic and research index**.
