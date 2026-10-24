@@ -44,6 +44,12 @@ Article-level contents index for **«Филателия СССР»**.
 
 Годы: [1966–1991](filateliya_sssr_contents.md)
 
+### Филателия
+
+Article-level contents index for **«Филателия»**.
+
+Годы: [1992–2011](filateliya_contents.md)
+
 ## Seminar proceedings
 
 ### Семинары Центрального музея связи имени А. С. Попова
