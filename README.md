@@ -48,7 +48,7 @@ Article-level contents index for **«Филателия СССР»**.
 
 Article-level contents index for **«Филателия»**.
 
-Годы: [1992–2011](filateliya_contents.md)
+Годы: [1992–2018](filateliya_contents.md); неполное покрытие: 2014, 2015, 2017 и 2018
 
 ## Seminar proceedings
 
